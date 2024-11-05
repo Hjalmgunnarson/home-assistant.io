@@ -47,8 +47,6 @@ Please disable the `debug_ui` immediately after debugging.
 
 {% endwarning %}
 
-
-
 ### Examples
 
 Use a self-hosted instance:
